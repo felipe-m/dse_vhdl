@@ -12,6 +12,6 @@ Video con mas info: https://youtu.be/izFOiCR1ec0
 
 En struct_adder hay ficheros para hacer el sumador estructural 
 
-Video con mas info: https://youtu.be/yLHdz0vNRzs
+Video con mas info: https://youtu.be/yZ9lwky60sI
 
 
