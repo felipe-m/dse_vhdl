@@ -37,7 +37,7 @@ package VGA_PKG is
 ---------- Lineas (vertical) ----------------------------------------------|
 -- |                        |             |                 |              |
 -- |      video activo      |   porche    |     sincro      |    porche    |
--- |                        | delantero   |   horizontal    |    trasero   |
+-- |                        | delantero   |    vertical     |    trasero   |
 -- |                        |             |                 |              |
 -- |<--------- 480 -------->|<--- 9  ---->|<------ 2  ----->|<---- 29 ---->|
 -- |                        |             |                 |              |
